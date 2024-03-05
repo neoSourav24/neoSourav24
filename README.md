@@ -1,3 +1,4 @@
+![logo](https://github.com/neoSourav24/neoSourav24/blob/main/banner.png.jpg)
 <h1 align="center">Hi 👋, I'm Sourav Tanti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
